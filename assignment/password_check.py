@@ -10,6 +10,7 @@ if len(password) == 8:
                 
 if len(password) > 8:
         print ('strong')
+        
                 
 if len(password) > 16:
         print ('very strong')
